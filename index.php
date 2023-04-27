@@ -6,7 +6,7 @@ header('Content-Type: audio/mpeg');
 
 // Define the directory where the music is stored
 
-$music_dir = '/home/ubuntu/music/';
+$music_dir = 'https://radio.rxo.me/music/';
 
 // Get a list of all the songs in the directory
 
